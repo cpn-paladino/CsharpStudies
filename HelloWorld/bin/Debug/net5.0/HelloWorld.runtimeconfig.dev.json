@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/paladino/.dotnet/store/|arch|/|tfm|",
+      "/home/paladino/.nuget/packages"
+    ]
+  }
+}
