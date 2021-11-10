@@ -1,6 +1,6 @@
 # CsharpStudies
 
-This project is a brief study about C# using Linux with .Net core 5.0.
+This project is a brief study about C# using Linux with .Net core 5.0 using Microsoft references.
 
 ## How to install .Net on Ubuntu 18.04
 
